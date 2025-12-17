@@ -1,3 +1,4 @@
-## sql-data-analytics-cases
- - Cases Reais de SQL usando bases de dados do ramo de e-commerce para solucionar problemas reais de negócio.
- - Projeto desenvolvido a partir de dados reais do e-commerce Olist, com foco em análise de dados utilizando SQL avançado, CTEs e Window Functions.
+# SQL Data Analytics — Business Cases (Olist)
+ Análise de dados utilizando SQL para resolução de problemas reais de negócio,
+aplicando conceitos avançados como CTEs, Window Functions e agregações.
+
