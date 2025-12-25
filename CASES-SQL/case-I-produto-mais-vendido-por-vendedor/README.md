@@ -26,7 +26,7 @@
     - CTE (Commom Table Expressions);
     - JOIN.
   ## Arquivos
-    - 
+    - query_I.sql
   
     
     
